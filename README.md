@@ -3,6 +3,7 @@
 ## ✨Latest Updates
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ek21000/Discord-MusicBot)
+Please note: This is just an improved version of SudhanPlayz Music bot! The original repository can be found here https://github.com/SudhanPlayz/Discord-MusicBot
 
 
 ## 📝 [Support Server](https://discord.gg/a3dFG49zXS)
