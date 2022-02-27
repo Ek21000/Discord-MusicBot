@@ -22,6 +22,13 @@
 > Note: If you are hosting your bot in heroku, Please consider upgrading your dyno for running dashboard & bot simultaneously because in free dyno it'll run out of memory(as there are two workers). If you want to run only the bot, turn off the `web` dyno.
 
 
+## 🦋 Common Bugs
+
+> You may experience commands being duplicated and you may get 2 responses from the bot when running a command. this will be fixed shortly
+
+
+> When runnign the bot on replit you may experience "Exit status 1" in the console. We are also working for a fix
+
 ## 🔮 Our future
 
 Our Next Plan is to get rid if all SudhanPlayz branding and rid the bot of branding. stay tuned
