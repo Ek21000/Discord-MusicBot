@@ -8,13 +8,7 @@
 
 ## 📝 [Support Server](https://discord.gg/a3dFG49zXS)
 
-If you have major coding issues with this bot, please join and ask for help.
-
-## 📸 Screenshots
-
-<div align="left"><img src="/assets/Screenshot_1.png"></div><div align="center"><img src="/assets/Screenshot_2.png"></div><div align="right"><img src="/assets/Screenshot_3.png"></div>
-
-<div align="center"><img src="/assets/feature.png"></div>
+> Please join our support server for support. It can be found here https://discord.gg/gjkNDsUepj
 
 ## 💨 Run the projects
 
