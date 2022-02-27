@@ -18,7 +18,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ek21000/Discord-MusicBot)
 
 
-https://repl.it/github/Ek21000/Improved-Music
+[Host On Replit](https://replit.com/@TopClips/Improved-Music?v=1)
 > Note: If you are hosting your bot in heroku, Please consider upgrading your dyno for running dashboard & bot simultaneously because in free dyno it'll run out of memory(as there are two workers). If you want to run only the bot, turn off the `web` dyno.
 
 
