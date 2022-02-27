@@ -12,11 +12,13 @@
 
 ## 💨 Run the projects
 
-> Its reccomended that you host on Heroku however you can also host in other alternative's
+> Its reccomended that you host on Heroku however you can also host on other alternative's
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ek21000/Discord-MusicBot)
-[Host On Replit](https://replit.com/@TopClips/Improved-Music?v=1)
+
+
+https://repl.it/github/Ek21000/Improved-Music
 > Note: If you are hosting your bot in heroku, Please consider upgrading your dyno for running dashboard & bot simultaneously because in free dyno it'll run out of memory(as there are two workers). If you want to run only the bot, turn off the `web` dyno.
 
 
