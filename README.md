@@ -37,3 +37,8 @@ Our Next Plan is to get rid if all SudhanPlayz branding and rid the bot of brand
 ## 🤖 Demo
 
 > A demo bot can be found [here](https://discord.com/api/oauth2/authorize?client_id=947269728303448164&permissions=8&scope=bot) it's name is MEE5!
+
+
+## 📝 Please Note...
+
+We do not provide lavalink credentials and we will never provide them to people. Do not join our server and ask for LavaLink credentials as they are menat to be kept private!
